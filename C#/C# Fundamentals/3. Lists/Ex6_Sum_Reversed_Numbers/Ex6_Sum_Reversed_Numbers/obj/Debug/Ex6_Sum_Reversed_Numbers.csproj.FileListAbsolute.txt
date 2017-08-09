@@ -1,0 +1,6 @@
+D:\All Projects\C#\C# Fundamentals\Lists\Ex6_Sum_Reversed_Numbers\Ex6_Sum_Reversed_Numbers\bin\Debug\Ex6_Sum_Reversed_Numbers.exe.config
+D:\All Projects\C#\C# Fundamentals\Lists\Ex6_Sum_Reversed_Numbers\Ex6_Sum_Reversed_Numbers\bin\Debug\Ex6_Sum_Reversed_Numbers.exe
+D:\All Projects\C#\C# Fundamentals\Lists\Ex6_Sum_Reversed_Numbers\Ex6_Sum_Reversed_Numbers\bin\Debug\Ex6_Sum_Reversed_Numbers.pdb
+D:\All Projects\C#\C# Fundamentals\Lists\Ex6_Sum_Reversed_Numbers\Ex6_Sum_Reversed_Numbers\obj\Debug\Ex6_Sum_Reversed_Numbers.csprojResolveAssemblyReference.cache
+D:\All Projects\C#\C# Fundamentals\Lists\Ex6_Sum_Reversed_Numbers\Ex6_Sum_Reversed_Numbers\obj\Debug\Ex6_Sum_Reversed_Numbers.exe
+D:\All Projects\C#\C# Fundamentals\Lists\Ex6_Sum_Reversed_Numbers\Ex6_Sum_Reversed_Numbers\obj\Debug\Ex6_Sum_Reversed_Numbers.pdb

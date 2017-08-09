@@ -1,0 +1,6 @@
+D:\All Projects\C#\C# Fundamentals\4. Dictionaries, Lambda and LINQ\Ex5_Hands_Of_Cards\Ex5_Hands_Of_Cards\bin\Debug\Ex5_Hands_Of_Cards.exe.config
+D:\All Projects\C#\C# Fundamentals\4. Dictionaries, Lambda and LINQ\Ex5_Hands_Of_Cards\Ex5_Hands_Of_Cards\bin\Debug\Ex5_Hands_Of_Cards.exe
+D:\All Projects\C#\C# Fundamentals\4. Dictionaries, Lambda and LINQ\Ex5_Hands_Of_Cards\Ex5_Hands_Of_Cards\bin\Debug\Ex5_Hands_Of_Cards.pdb
+D:\All Projects\C#\C# Fundamentals\4. Dictionaries, Lambda and LINQ\Ex5_Hands_Of_Cards\Ex5_Hands_Of_Cards\obj\Debug\Ex5_Hands_Of_Cards.csprojResolveAssemblyReference.cache
+D:\All Projects\C#\C# Fundamentals\4. Dictionaries, Lambda and LINQ\Ex5_Hands_Of_Cards\Ex5_Hands_Of_Cards\obj\Debug\Ex5_Hands_Of_Cards.exe
+D:\All Projects\C#\C# Fundamentals\4. Dictionaries, Lambda and LINQ\Ex5_Hands_Of_Cards\Ex5_Hands_Of_Cards\obj\Debug\Ex5_Hands_Of_Cards.pdb

@@ -1,0 +1,7 @@
+D:\All Projects\C#\C# Fundamentals\7. Objects, Classes, Files and Exceptions\Ex6_EXCELlent_Knowledge\Ex6_EXCELlent_Knowledge\bin\Debug\Ex6_EXCELlent_Knowledge.exe.config
+D:\All Projects\C#\C# Fundamentals\7. Objects, Classes, Files and Exceptions\Ex6_EXCELlent_Knowledge\Ex6_EXCELlent_Knowledge\bin\Debug\Ex6_EXCELlent_Knowledge.exe
+D:\All Projects\C#\C# Fundamentals\7. Objects, Classes, Files and Exceptions\Ex6_EXCELlent_Knowledge\Ex6_EXCELlent_Knowledge\bin\Debug\Ex6_EXCELlent_Knowledge.pdb
+D:\All Projects\C#\C# Fundamentals\7. Objects, Classes, Files and Exceptions\Ex6_EXCELlent_Knowledge\Ex6_EXCELlent_Knowledge\obj\Debug\Ex6_EXCELlent_Knowledge.csprojResolveAssemblyReference.cache
+D:\All Projects\C#\C# Fundamentals\7. Objects, Classes, Files and Exceptions\Ex6_EXCELlent_Knowledge\Ex6_EXCELlent_Knowledge\obj\Debug\Ex6_EXCELlent_Knowledge.exe
+D:\All Projects\C#\C# Fundamentals\7. Objects, Classes, Files and Exceptions\Ex6_EXCELlent_Knowledge\Ex6_EXCELlent_Knowledge\obj\Debug\Ex6_EXCELlent_Knowledge.pdb
+D:\All Projects\C#\C# Fundamentals\7. Objects, Classes, Files and Exceptions\Ex6_EXCELlent_Knowledge\Ex6_EXCELlent_Knowledge\obj\Debug\Ex6_EXCELlent_Knowledge.csproj.ResolveComReference.cache

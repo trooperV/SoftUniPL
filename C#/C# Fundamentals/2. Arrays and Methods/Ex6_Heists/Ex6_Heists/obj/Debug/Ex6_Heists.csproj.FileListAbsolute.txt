@@ -1,0 +1,6 @@
+D:\All Projects\C#\C# Fundamentals\Arrays and Methods\Ex6_Heists\Ex6_Heists\bin\Debug\Ex6_Heists.exe.config
+D:\All Projects\C#\C# Fundamentals\Arrays and Methods\Ex6_Heists\Ex6_Heists\bin\Debug\Ex6_Heists.exe
+D:\All Projects\C#\C# Fundamentals\Arrays and Methods\Ex6_Heists\Ex6_Heists\bin\Debug\Ex6_Heists.pdb
+D:\All Projects\C#\C# Fundamentals\Arrays and Methods\Ex6_Heists\Ex6_Heists\obj\Debug\Ex6_Heists.csprojResolveAssemblyReference.cache
+D:\All Projects\C#\C# Fundamentals\Arrays and Methods\Ex6_Heists\Ex6_Heists\obj\Debug\Ex6_Heists.exe
+D:\All Projects\C#\C# Fundamentals\Arrays and Methods\Ex6_Heists\Ex6_Heists\obj\Debug\Ex6_Heists.pdb

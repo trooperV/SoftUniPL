@@ -1,0 +1,6 @@
+D:\All Projects\C#\C# Fundamentals\6. Objects and Classes\Ex10_Student_Groups\Ex10_Student_Groups\bin\Debug\Ex10_Student_Groups.exe.config
+D:\All Projects\C#\C# Fundamentals\6. Objects and Classes\Ex10_Student_Groups\Ex10_Student_Groups\bin\Debug\Ex10_Student_Groups.exe
+D:\All Projects\C#\C# Fundamentals\6. Objects and Classes\Ex10_Student_Groups\Ex10_Student_Groups\bin\Debug\Ex10_Student_Groups.pdb
+D:\All Projects\C#\C# Fundamentals\6. Objects and Classes\Ex10_Student_Groups\Ex10_Student_Groups\obj\Debug\Ex10_Student_Groups.csprojResolveAssemblyReference.cache
+D:\All Projects\C#\C# Fundamentals\6. Objects and Classes\Ex10_Student_Groups\Ex10_Student_Groups\obj\Debug\Ex10_Student_Groups.exe
+D:\All Projects\C#\C# Fundamentals\6. Objects and Classes\Ex10_Student_Groups\Ex10_Student_Groups\obj\Debug\Ex10_Student_Groups.pdb

@@ -1,0 +1,6 @@
+D:\All Projects\C#\C# Fundamentals\6. Objects and Classes\Ex7_Andrey_And_Billiard\Ex7_Andrey_And_Billiard\bin\Debug\Ex7_Andrey_And_Billiard.exe.config
+D:\All Projects\C#\C# Fundamentals\6. Objects and Classes\Ex7_Andrey_And_Billiard\Ex7_Andrey_And_Billiard\bin\Debug\Ex7_Andrey_And_Billiard.exe
+D:\All Projects\C#\C# Fundamentals\6. Objects and Classes\Ex7_Andrey_And_Billiard\Ex7_Andrey_And_Billiard\bin\Debug\Ex7_Andrey_And_Billiard.pdb
+D:\All Projects\C#\C# Fundamentals\6. Objects and Classes\Ex7_Andrey_And_Billiard\Ex7_Andrey_And_Billiard\obj\Debug\Ex7_Andrey_And_Billiard.csprojResolveAssemblyReference.cache
+D:\All Projects\C#\C# Fundamentals\6. Objects and Classes\Ex7_Andrey_And_Billiard\Ex7_Andrey_And_Billiard\obj\Debug\Ex7_Andrey_And_Billiard.exe
+D:\All Projects\C#\C# Fundamentals\6. Objects and Classes\Ex7_Andrey_And_Billiard\Ex7_Andrey_And_Billiard\obj\Debug\Ex7_Andrey_And_Billiard.pdb

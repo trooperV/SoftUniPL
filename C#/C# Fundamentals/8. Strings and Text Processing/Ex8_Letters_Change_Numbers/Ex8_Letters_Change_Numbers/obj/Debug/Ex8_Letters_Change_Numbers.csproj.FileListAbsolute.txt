@@ -1,0 +1,6 @@
+D:\All Projects\C#\C# Fundamentals\8. Strings and Text Processing\Ex8_Letters_Change_Numbers\Ex8_Letters_Change_Numbers\bin\Debug\Ex8_Letters_Change_Numbers.exe.config
+D:\All Projects\C#\C# Fundamentals\8. Strings and Text Processing\Ex8_Letters_Change_Numbers\Ex8_Letters_Change_Numbers\bin\Debug\Ex8_Letters_Change_Numbers.exe
+D:\All Projects\C#\C# Fundamentals\8. Strings and Text Processing\Ex8_Letters_Change_Numbers\Ex8_Letters_Change_Numbers\bin\Debug\Ex8_Letters_Change_Numbers.pdb
+D:\All Projects\C#\C# Fundamentals\8. Strings and Text Processing\Ex8_Letters_Change_Numbers\Ex8_Letters_Change_Numbers\obj\Debug\Ex8_Letters_Change_Numbers.csprojResolveAssemblyReference.cache
+D:\All Projects\C#\C# Fundamentals\8. Strings and Text Processing\Ex8_Letters_Change_Numbers\Ex8_Letters_Change_Numbers\obj\Debug\Ex8_Letters_Change_Numbers.exe
+D:\All Projects\C#\C# Fundamentals\8. Strings and Text Processing\Ex8_Letters_Change_Numbers\Ex8_Letters_Change_Numbers\obj\Debug\Ex8_Letters_Change_Numbers.pdb

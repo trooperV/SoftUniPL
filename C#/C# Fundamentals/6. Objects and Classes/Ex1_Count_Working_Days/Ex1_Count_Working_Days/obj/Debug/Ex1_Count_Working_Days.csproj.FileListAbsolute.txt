@@ -1,0 +1,6 @@
+D:\All Projects\C#\C# Fundamentals\6. Objects and Classes\Ex1_Count_Working_Days\Ex1_Count_Working_Days\bin\Debug\Ex1_Count_Working_Days.exe.config
+D:\All Projects\C#\C# Fundamentals\6. Objects and Classes\Ex1_Count_Working_Days\Ex1_Count_Working_Days\bin\Debug\Ex1_Count_Working_Days.exe
+D:\All Projects\C#\C# Fundamentals\6. Objects and Classes\Ex1_Count_Working_Days\Ex1_Count_Working_Days\bin\Debug\Ex1_Count_Working_Days.pdb
+D:\All Projects\C#\C# Fundamentals\6. Objects and Classes\Ex1_Count_Working_Days\Ex1_Count_Working_Days\obj\Debug\Ex1_Count_Working_Days.csprojResolveAssemblyReference.cache
+D:\All Projects\C#\C# Fundamentals\6. Objects and Classes\Ex1_Count_Working_Days\Ex1_Count_Working_Days\obj\Debug\Ex1_Count_Working_Days.exe
+D:\All Projects\C#\C# Fundamentals\6. Objects and Classes\Ex1_Count_Working_Days\Ex1_Count_Working_Days\obj\Debug\Ex1_Count_Working_Days.pdb

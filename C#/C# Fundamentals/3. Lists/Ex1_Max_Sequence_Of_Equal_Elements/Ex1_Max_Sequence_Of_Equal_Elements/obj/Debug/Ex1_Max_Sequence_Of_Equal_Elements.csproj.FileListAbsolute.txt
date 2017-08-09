@@ -1,0 +1,6 @@
+D:\All Projects\C#\C# Fundamentals\Lists\Ex1_Max_Sequence_Of_Equal_Elements\Ex1_Max_Sequence_Of_Equal_Elements\bin\Debug\Ex1_Max_Sequence_Of_Equal_Elements.exe.config
+D:\All Projects\C#\C# Fundamentals\Lists\Ex1_Max_Sequence_Of_Equal_Elements\Ex1_Max_Sequence_Of_Equal_Elements\bin\Debug\Ex1_Max_Sequence_Of_Equal_Elements.exe
+D:\All Projects\C#\C# Fundamentals\Lists\Ex1_Max_Sequence_Of_Equal_Elements\Ex1_Max_Sequence_Of_Equal_Elements\bin\Debug\Ex1_Max_Sequence_Of_Equal_Elements.pdb
+D:\All Projects\C#\C# Fundamentals\Lists\Ex1_Max_Sequence_Of_Equal_Elements\Ex1_Max_Sequence_Of_Equal_Elements\obj\Debug\Ex1_Max_Sequence_Of_Equal_Elements.csprojResolveAssemblyReference.cache
+D:\All Projects\C#\C# Fundamentals\Lists\Ex1_Max_Sequence_Of_Equal_Elements\Ex1_Max_Sequence_Of_Equal_Elements\obj\Debug\Ex1_Max_Sequence_Of_Equal_Elements.exe
+D:\All Projects\C#\C# Fundamentals\Lists\Ex1_Max_Sequence_Of_Equal_Elements\Ex1_Max_Sequence_Of_Equal_Elements\obj\Debug\Ex1_Max_Sequence_Of_Equal_Elements.pdb

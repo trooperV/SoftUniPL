@@ -1,0 +1,6 @@
+D:\All Projects\C#\C# Fundamentals\8. Strings and Text Processing\Ex5_Magic_Exchangeable_Words\Ex5_Magic_Exchangeable_Words\bin\Debug\Ex5_Magic_Exchangeable_Words.exe.config
+D:\All Projects\C#\C# Fundamentals\8. Strings and Text Processing\Ex5_Magic_Exchangeable_Words\Ex5_Magic_Exchangeable_Words\bin\Debug\Ex5_Magic_Exchangeable_Words.exe
+D:\All Projects\C#\C# Fundamentals\8. Strings and Text Processing\Ex5_Magic_Exchangeable_Words\Ex5_Magic_Exchangeable_Words\bin\Debug\Ex5_Magic_Exchangeable_Words.pdb
+D:\All Projects\C#\C# Fundamentals\8. Strings and Text Processing\Ex5_Magic_Exchangeable_Words\Ex5_Magic_Exchangeable_Words\obj\Debug\Ex5_Magic_Exchangeable_Words.csprojResolveAssemblyReference.cache
+D:\All Projects\C#\C# Fundamentals\8. Strings and Text Processing\Ex5_Magic_Exchangeable_Words\Ex5_Magic_Exchangeable_Words\obj\Debug\Ex5_Magic_Exchangeable_Words.exe
+D:\All Projects\C#\C# Fundamentals\8. Strings and Text Processing\Ex5_Magic_Exchangeable_Words\Ex5_Magic_Exchangeable_Words\obj\Debug\Ex5_Magic_Exchangeable_Words.pdb

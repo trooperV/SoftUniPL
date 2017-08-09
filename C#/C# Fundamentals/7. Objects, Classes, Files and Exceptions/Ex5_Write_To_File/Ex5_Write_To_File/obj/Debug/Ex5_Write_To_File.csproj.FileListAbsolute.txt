@@ -1,0 +1,6 @@
+D:\All Projects\C#\C# Fundamentals\7. Objects, Classes, Files and Exceptions\Ex5_Write_To_File\Ex5_Write_To_File\bin\Debug\Ex5_Write_To_File.exe.config
+D:\All Projects\C#\C# Fundamentals\7. Objects, Classes, Files and Exceptions\Ex5_Write_To_File\Ex5_Write_To_File\bin\Debug\Ex5_Write_To_File.exe
+D:\All Projects\C#\C# Fundamentals\7. Objects, Classes, Files and Exceptions\Ex5_Write_To_File\Ex5_Write_To_File\bin\Debug\Ex5_Write_To_File.pdb
+D:\All Projects\C#\C# Fundamentals\7. Objects, Classes, Files and Exceptions\Ex5_Write_To_File\Ex5_Write_To_File\obj\Debug\Ex5_Write_To_File.csprojResolveAssemblyReference.cache
+D:\All Projects\C#\C# Fundamentals\7. Objects, Classes, Files and Exceptions\Ex5_Write_To_File\Ex5_Write_To_File\obj\Debug\Ex5_Write_To_File.exe
+D:\All Projects\C#\C# Fundamentals\7. Objects, Classes, Files and Exceptions\Ex5_Write_To_File\Ex5_Write_To_File\obj\Debug\Ex5_Write_To_File.pdb

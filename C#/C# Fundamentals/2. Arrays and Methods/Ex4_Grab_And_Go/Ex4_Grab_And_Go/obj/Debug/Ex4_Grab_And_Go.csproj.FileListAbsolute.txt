@@ -1,0 +1,6 @@
+D:\All Projects\C#\C# Fundamentals\Arrays and Methods\Ex4_Grab_And_Go\Ex4_Grab_And_Go\bin\Debug\Ex4_Grab_And_Go.exe.config
+D:\All Projects\C#\C# Fundamentals\Arrays and Methods\Ex4_Grab_And_Go\Ex4_Grab_And_Go\bin\Debug\Ex4_Grab_And_Go.exe
+D:\All Projects\C#\C# Fundamentals\Arrays and Methods\Ex4_Grab_And_Go\Ex4_Grab_And_Go\bin\Debug\Ex4_Grab_And_Go.pdb
+D:\All Projects\C#\C# Fundamentals\Arrays and Methods\Ex4_Grab_And_Go\Ex4_Grab_And_Go\obj\Debug\Ex4_Grab_And_Go.csprojResolveAssemblyReference.cache
+D:\All Projects\C#\C# Fundamentals\Arrays and Methods\Ex4_Grab_And_Go\Ex4_Grab_And_Go\obj\Debug\Ex4_Grab_And_Go.exe
+D:\All Projects\C#\C# Fundamentals\Arrays and Methods\Ex4_Grab_And_Go\Ex4_Grab_And_Go\obj\Debug\Ex4_Grab_And_Go.pdb

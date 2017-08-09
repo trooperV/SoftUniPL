@@ -1,0 +1,6 @@
+D:\All Projects\C#\C# Fundamentals\Lists\Ex4_Longest_Increasing_Subsequence\Ex4_Longest_Increasing_Subsequence\bin\Debug\Ex4_Longest_Increasing_Subsequence.exe.config
+D:\All Projects\C#\C# Fundamentals\Lists\Ex4_Longest_Increasing_Subsequence\Ex4_Longest_Increasing_Subsequence\bin\Debug\Ex4_Longest_Increasing_Subsequence.exe
+D:\All Projects\C#\C# Fundamentals\Lists\Ex4_Longest_Increasing_Subsequence\Ex4_Longest_Increasing_Subsequence\bin\Debug\Ex4_Longest_Increasing_Subsequence.pdb
+D:\All Projects\C#\C# Fundamentals\Lists\Ex4_Longest_Increasing_Subsequence\Ex4_Longest_Increasing_Subsequence\obj\Debug\Ex4_Longest_Increasing_Subsequence.csprojResolveAssemblyReference.cache
+D:\All Projects\C#\C# Fundamentals\Lists\Ex4_Longest_Increasing_Subsequence\Ex4_Longest_Increasing_Subsequence\obj\Debug\Ex4_Longest_Increasing_Subsequence.exe
+D:\All Projects\C#\C# Fundamentals\Lists\Ex4_Longest_Increasing_Subsequence\Ex4_Longest_Increasing_Subsequence\obj\Debug\Ex4_Longest_Increasing_Subsequence.pdb

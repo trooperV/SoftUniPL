@@ -1,0 +1,6 @@
+D:\All Projects\C#\C# Fundamentals\7. Objects, Classes, Files and Exceptions\Ex4_Punctuation_Finder\Ex4_Punctuation_Finder\bin\Debug\Ex4_Punctuation_Finder.exe.config
+D:\All Projects\C#\C# Fundamentals\7. Objects, Classes, Files and Exceptions\Ex4_Punctuation_Finder\Ex4_Punctuation_Finder\bin\Debug\Ex4_Punctuation_Finder.exe
+D:\All Projects\C#\C# Fundamentals\7. Objects, Classes, Files and Exceptions\Ex4_Punctuation_Finder\Ex4_Punctuation_Finder\bin\Debug\Ex4_Punctuation_Finder.pdb
+D:\All Projects\C#\C# Fundamentals\7. Objects, Classes, Files and Exceptions\Ex4_Punctuation_Finder\Ex4_Punctuation_Finder\obj\Debug\Ex4_Punctuation_Finder.csprojResolveAssemblyReference.cache
+D:\All Projects\C#\C# Fundamentals\7. Objects, Classes, Files and Exceptions\Ex4_Punctuation_Finder\Ex4_Punctuation_Finder\obj\Debug\Ex4_Punctuation_Finder.exe
+D:\All Projects\C#\C# Fundamentals\7. Objects, Classes, Files and Exceptions\Ex4_Punctuation_Finder\Ex4_Punctuation_Finder\obj\Debug\Ex4_Punctuation_Finder.pdb

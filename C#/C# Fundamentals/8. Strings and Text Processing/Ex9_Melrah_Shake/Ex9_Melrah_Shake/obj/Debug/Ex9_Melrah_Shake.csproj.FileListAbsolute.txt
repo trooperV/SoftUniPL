@@ -1,0 +1,5 @@
+D:\All Projects\C#\C# Fundamentals\8. Strings and Text Processing\Ex9_Melrah_Shake\Ex9_Melrah_Shake\bin\Debug\Ex9_Melrah_Shake.exe.config
+D:\All Projects\C#\C# Fundamentals\8. Strings and Text Processing\Ex9_Melrah_Shake\Ex9_Melrah_Shake\bin\Debug\Ex9_Melrah_Shake.exe
+D:\All Projects\C#\C# Fundamentals\8. Strings and Text Processing\Ex9_Melrah_Shake\Ex9_Melrah_Shake\bin\Debug\Ex9_Melrah_Shake.pdb
+D:\All Projects\C#\C# Fundamentals\8. Strings and Text Processing\Ex9_Melrah_Shake\Ex9_Melrah_Shake\obj\Debug\Ex9_Melrah_Shake.exe
+D:\All Projects\C#\C# Fundamentals\8. Strings and Text Processing\Ex9_Melrah_Shake\Ex9_Melrah_Shake\obj\Debug\Ex9_Melrah_Shake.pdb

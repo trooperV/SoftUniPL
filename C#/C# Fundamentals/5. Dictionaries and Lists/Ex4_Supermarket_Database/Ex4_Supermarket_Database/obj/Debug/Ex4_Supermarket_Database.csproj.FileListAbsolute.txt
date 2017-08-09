@@ -1,0 +1,6 @@
+D:\All Projects\C#\C# Fundamentals\5. Dictionaries and Lists\Ex4_Supermarket_Database\Ex4_Supermarket_Database\bin\Debug\Ex4_Supermarket_Database.exe.config
+D:\All Projects\C#\C# Fundamentals\5. Dictionaries and Lists\Ex4_Supermarket_Database\Ex4_Supermarket_Database\bin\Debug\Ex4_Supermarket_Database.exe
+D:\All Projects\C#\C# Fundamentals\5. Dictionaries and Lists\Ex4_Supermarket_Database\Ex4_Supermarket_Database\bin\Debug\Ex4_Supermarket_Database.pdb
+D:\All Projects\C#\C# Fundamentals\5. Dictionaries and Lists\Ex4_Supermarket_Database\Ex4_Supermarket_Database\obj\Debug\Ex4_Supermarket_Database.csprojResolveAssemblyReference.cache
+D:\All Projects\C#\C# Fundamentals\5. Dictionaries and Lists\Ex4_Supermarket_Database\Ex4_Supermarket_Database\obj\Debug\Ex4_Supermarket_Database.exe
+D:\All Projects\C#\C# Fundamentals\5. Dictionaries and Lists\Ex4_Supermarket_Database\Ex4_Supermarket_Database\obj\Debug\Ex4_Supermarket_Database.pdb

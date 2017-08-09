@@ -1,0 +1,6 @@
+D:\All Projects\C#\C# Fundamentals\Array\Ex8\Ex8\bin\Debug\Ex8.exe.config
+D:\All Projects\C#\C# Fundamentals\Array\Ex8\Ex8\bin\Debug\Ex8.exe
+D:\All Projects\C#\C# Fundamentals\Array\Ex8\Ex8\bin\Debug\Ex8.pdb
+D:\All Projects\C#\C# Fundamentals\Array\Ex8\Ex8\obj\Debug\Ex8.csprojResolveAssemblyReference.cache
+D:\All Projects\C#\C# Fundamentals\Array\Ex8\Ex8\obj\Debug\Ex8.exe
+D:\All Projects\C#\C# Fundamentals\Array\Ex8\Ex8\obj\Debug\Ex8.pdb

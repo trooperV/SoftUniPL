@@ -1,0 +1,6 @@
+D:\All Projects\C#\C# Fundamentals\5. Dictionaries and Lists\Ex2_Odd_Filter\Ex2_Odd_Filter\bin\Debug\Ex2_Odd_Filter.exe.config
+D:\All Projects\C#\C# Fundamentals\5. Dictionaries and Lists\Ex2_Odd_Filter\Ex2_Odd_Filter\bin\Debug\Ex2_Odd_Filter.exe
+D:\All Projects\C#\C# Fundamentals\5. Dictionaries and Lists\Ex2_Odd_Filter\Ex2_Odd_Filter\bin\Debug\Ex2_Odd_Filter.pdb
+D:\All Projects\C#\C# Fundamentals\5. Dictionaries and Lists\Ex2_Odd_Filter\Ex2_Odd_Filter\obj\Debug\Ex2_Odd_Filter.csprojResolveAssemblyReference.cache
+D:\All Projects\C#\C# Fundamentals\5. Dictionaries and Lists\Ex2_Odd_Filter\Ex2_Odd_Filter\obj\Debug\Ex2_Odd_Filter.exe
+D:\All Projects\C#\C# Fundamentals\5. Dictionaries and Lists\Ex2_Odd_Filter\Ex2_Odd_Filter\obj\Debug\Ex2_Odd_Filter.pdb

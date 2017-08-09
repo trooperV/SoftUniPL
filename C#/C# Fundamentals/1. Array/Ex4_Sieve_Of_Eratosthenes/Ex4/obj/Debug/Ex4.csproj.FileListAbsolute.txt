@@ -1,0 +1,6 @@
+D:\All Projects\C#\C# Fundamentals\Array\Ex4\Ex4\bin\Debug\Ex4.exe.config
+D:\All Projects\C#\C# Fundamentals\Array\Ex4\Ex4\bin\Debug\Ex4.exe
+D:\All Projects\C#\C# Fundamentals\Array\Ex4\Ex4\bin\Debug\Ex4.pdb
+D:\All Projects\C#\C# Fundamentals\Array\Ex4\Ex4\obj\Debug\Ex4.csprojResolveAssemblyReference.cache
+D:\All Projects\C#\C# Fundamentals\Array\Ex4\Ex4\obj\Debug\Ex4.exe
+D:\All Projects\C#\C# Fundamentals\Array\Ex4\Ex4\obj\Debug\Ex4.pdb

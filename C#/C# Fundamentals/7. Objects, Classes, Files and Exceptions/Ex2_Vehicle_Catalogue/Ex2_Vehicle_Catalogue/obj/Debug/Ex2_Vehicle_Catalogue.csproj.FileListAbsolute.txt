@@ -1,0 +1,6 @@
+D:\All Projects\C#\C# Fundamentals\7. Objects, Classes, Files and Exceptions\Ex2_Vehicle_Catalogue\Ex2_Vehicle_Catalogue\bin\Debug\Ex2_Vehicle_Catalogue.exe.config
+D:\All Projects\C#\C# Fundamentals\7. Objects, Classes, Files and Exceptions\Ex2_Vehicle_Catalogue\Ex2_Vehicle_Catalogue\bin\Debug\Ex2_Vehicle_Catalogue.exe
+D:\All Projects\C#\C# Fundamentals\7. Objects, Classes, Files and Exceptions\Ex2_Vehicle_Catalogue\Ex2_Vehicle_Catalogue\bin\Debug\Ex2_Vehicle_Catalogue.pdb
+D:\All Projects\C#\C# Fundamentals\7. Objects, Classes, Files and Exceptions\Ex2_Vehicle_Catalogue\Ex2_Vehicle_Catalogue\obj\Debug\Ex2_Vehicle_Catalogue.csprojResolveAssemblyReference.cache
+D:\All Projects\C#\C# Fundamentals\7. Objects, Classes, Files and Exceptions\Ex2_Vehicle_Catalogue\Ex2_Vehicle_Catalogue\obj\Debug\Ex2_Vehicle_Catalogue.exe
+D:\All Projects\C#\C# Fundamentals\7. Objects, Classes, Files and Exceptions\Ex2_Vehicle_Catalogue\Ex2_Vehicle_Catalogue\obj\Debug\Ex2_Vehicle_Catalogue.pdb

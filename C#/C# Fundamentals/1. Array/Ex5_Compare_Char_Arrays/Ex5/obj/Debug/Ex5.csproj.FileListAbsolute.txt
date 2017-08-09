@@ -1,0 +1,6 @@
+D:\All Projects\C#\C# Fundamentals\Array\Ex5\Ex5\bin\Debug\Ex5.exe.config
+D:\All Projects\C#\C# Fundamentals\Array\Ex5\Ex5\bin\Debug\Ex5.exe
+D:\All Projects\C#\C# Fundamentals\Array\Ex5\Ex5\bin\Debug\Ex5.pdb
+D:\All Projects\C#\C# Fundamentals\Array\Ex5\Ex5\obj\Debug\Ex5.csprojResolveAssemblyReference.cache
+D:\All Projects\C#\C# Fundamentals\Array\Ex5\Ex5\obj\Debug\Ex5.exe
+D:\All Projects\C#\C# Fundamentals\Array\Ex5\Ex5\obj\Debug\Ex5.pdb

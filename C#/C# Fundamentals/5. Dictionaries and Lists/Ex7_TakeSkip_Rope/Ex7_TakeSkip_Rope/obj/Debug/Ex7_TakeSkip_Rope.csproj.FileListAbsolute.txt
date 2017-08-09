@@ -1,0 +1,6 @@
+D:\All Projects\C#\C# Fundamentals\5. Dictionaries and Lists\Ex7_TakeSkip_Rope\Ex7_TakeSkip_Rope\bin\Debug\Ex7_TakeSkip_Rope.exe.config
+D:\All Projects\C#\C# Fundamentals\5. Dictionaries and Lists\Ex7_TakeSkip_Rope\Ex7_TakeSkip_Rope\bin\Debug\Ex7_TakeSkip_Rope.exe
+D:\All Projects\C#\C# Fundamentals\5. Dictionaries and Lists\Ex7_TakeSkip_Rope\Ex7_TakeSkip_Rope\bin\Debug\Ex7_TakeSkip_Rope.pdb
+D:\All Projects\C#\C# Fundamentals\5. Dictionaries and Lists\Ex7_TakeSkip_Rope\Ex7_TakeSkip_Rope\obj\Debug\Ex7_TakeSkip_Rope.csprojResolveAssemblyReference.cache
+D:\All Projects\C#\C# Fundamentals\5. Dictionaries and Lists\Ex7_TakeSkip_Rope\Ex7_TakeSkip_Rope\obj\Debug\Ex7_TakeSkip_Rope.exe
+D:\All Projects\C#\C# Fundamentals\5. Dictionaries and Lists\Ex7_TakeSkip_Rope\Ex7_TakeSkip_Rope\obj\Debug\Ex7_TakeSkip_Rope.pdb

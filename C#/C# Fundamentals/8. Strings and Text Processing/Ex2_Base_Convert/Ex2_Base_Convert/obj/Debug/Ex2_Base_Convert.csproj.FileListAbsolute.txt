@@ -1,0 +1,6 @@
+D:\All Projects\C#\C# Fundamentals\8. Strings and Text Processing\Ex2_Base_Convert\Ex2_Base_Convert\bin\Debug\Ex2_Base_Convert.exe.config
+D:\All Projects\C#\C# Fundamentals\8. Strings and Text Processing\Ex2_Base_Convert\Ex2_Base_Convert\bin\Debug\Ex2_Base_Convert.exe
+D:\All Projects\C#\C# Fundamentals\8. Strings and Text Processing\Ex2_Base_Convert\Ex2_Base_Convert\bin\Debug\Ex2_Base_Convert.pdb
+D:\All Projects\C#\C# Fundamentals\8. Strings and Text Processing\Ex2_Base_Convert\Ex2_Base_Convert\obj\Debug\Ex2_Base_Convert.csprojResolveAssemblyReference.cache
+D:\All Projects\C#\C# Fundamentals\8. Strings and Text Processing\Ex2_Base_Convert\Ex2_Base_Convert\obj\Debug\Ex2_Base_Convert.exe
+D:\All Projects\C#\C# Fundamentals\8. Strings and Text Processing\Ex2_Base_Convert\Ex2_Base_Convert\obj\Debug\Ex2_Base_Convert.pdb

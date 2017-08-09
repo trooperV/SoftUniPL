@@ -1,0 +1,6 @@
+D:\All Projects\C#\C# Fundamentals\8. Strings and Text Processing\Ex3_Unicode_Chars\Ex3_Unicode_Chars\bin\Debug\Ex3_Unicode_Chars.exe.config
+D:\All Projects\C#\C# Fundamentals\8. Strings and Text Processing\Ex3_Unicode_Chars\Ex3_Unicode_Chars\bin\Debug\Ex3_Unicode_Chars.exe
+D:\All Projects\C#\C# Fundamentals\8. Strings and Text Processing\Ex3_Unicode_Chars\Ex3_Unicode_Chars\bin\Debug\Ex3_Unicode_Chars.pdb
+D:\All Projects\C#\C# Fundamentals\8. Strings and Text Processing\Ex3_Unicode_Chars\Ex3_Unicode_Chars\obj\Debug\Ex3_Unicode_Chars.csprojResolveAssemblyReference.cache
+D:\All Projects\C#\C# Fundamentals\8. Strings and Text Processing\Ex3_Unicode_Chars\Ex3_Unicode_Chars\obj\Debug\Ex3_Unicode_Chars.exe
+D:\All Projects\C#\C# Fundamentals\8. Strings and Text Processing\Ex3_Unicode_Chars\Ex3_Unicode_Chars\obj\Debug\Ex3_Unicode_Chars.pdb

@@ -1,0 +1,6 @@
+D:\All Projects\C#\C# Fundamentals\8. Strings and Text Processing\Ex4_Character_Multiplier\Ex4_Character_Multiplier\bin\Debug\Ex4_Character_Multiplier.exe.config
+D:\All Projects\C#\C# Fundamentals\8. Strings and Text Processing\Ex4_Character_Multiplier\Ex4_Character_Multiplier\bin\Debug\Ex4_Character_Multiplier.exe
+D:\All Projects\C#\C# Fundamentals\8. Strings and Text Processing\Ex4_Character_Multiplier\Ex4_Character_Multiplier\bin\Debug\Ex4_Character_Multiplier.pdb
+D:\All Projects\C#\C# Fundamentals\8. Strings and Text Processing\Ex4_Character_Multiplier\Ex4_Character_Multiplier\obj\Debug\Ex4_Character_Multiplier.csprojResolveAssemblyReference.cache
+D:\All Projects\C#\C# Fundamentals\8. Strings and Text Processing\Ex4_Character_Multiplier\Ex4_Character_Multiplier\obj\Debug\Ex4_Character_Multiplier.exe
+D:\All Projects\C#\C# Fundamentals\8. Strings and Text Processing\Ex4_Character_Multiplier\Ex4_Character_Multiplier\obj\Debug\Ex4_Character_Multiplier.pdb

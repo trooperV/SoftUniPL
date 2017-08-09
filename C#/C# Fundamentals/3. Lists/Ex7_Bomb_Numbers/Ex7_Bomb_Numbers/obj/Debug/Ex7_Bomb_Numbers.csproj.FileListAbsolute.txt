@@ -1,0 +1,6 @@
+D:\All Projects\C#\C# Fundamentals\Lists\Ex7_Bomb_Numbers\Ex7_Bomb_Numbers\bin\Debug\Ex7_Bomb_Numbers.exe.config
+D:\All Projects\C#\C# Fundamentals\Lists\Ex7_Bomb_Numbers\Ex7_Bomb_Numbers\bin\Debug\Ex7_Bomb_Numbers.exe
+D:\All Projects\C#\C# Fundamentals\Lists\Ex7_Bomb_Numbers\Ex7_Bomb_Numbers\bin\Debug\Ex7_Bomb_Numbers.pdb
+D:\All Projects\C#\C# Fundamentals\Lists\Ex7_Bomb_Numbers\Ex7_Bomb_Numbers\obj\Debug\Ex7_Bomb_Numbers.csprojResolveAssemblyReference.cache
+D:\All Projects\C#\C# Fundamentals\Lists\Ex7_Bomb_Numbers\Ex7_Bomb_Numbers\obj\Debug\Ex7_Bomb_Numbers.exe
+D:\All Projects\C#\C# Fundamentals\Lists\Ex7_Bomb_Numbers\Ex7_Bomb_Numbers\obj\Debug\Ex7_Bomb_Numbers.pdb
