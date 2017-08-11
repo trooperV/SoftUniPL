@@ -1,6 +1,0 @@
-D:\All Projects\C#\C# Fundamentals\4. Dictionaries, Lambda and LINQ\Ex9_Legendary_Farming\Ex9_Legendary_Farming\bin\Debug\Ex9_Legendary_Farming.exe.config
-D:\All Projects\C#\C# Fundamentals\4. Dictionaries, Lambda and LINQ\Ex9_Legendary_Farming\Ex9_Legendary_Farming\bin\Debug\Ex9_Legendary_Farming.exe
-D:\All Projects\C#\C# Fundamentals\4. Dictionaries, Lambda and LINQ\Ex9_Legendary_Farming\Ex9_Legendary_Farming\bin\Debug\Ex9_Legendary_Farming.pdb
-D:\All Projects\C#\C# Fundamentals\4. Dictionaries, Lambda and LINQ\Ex9_Legendary_Farming\Ex9_Legendary_Farming\obj\Debug\Ex9_Legendary_Farming.csprojResolveAssemblyReference.cache
-D:\All Projects\C#\C# Fundamentals\4. Dictionaries, Lambda and LINQ\Ex9_Legendary_Farming\Ex9_Legendary_Farming\obj\Debug\Ex9_Legendary_Farming.exe
-D:\All Projects\C#\C# Fundamentals\4. Dictionaries, Lambda and LINQ\Ex9_Legendary_Farming\Ex9_Legendary_Farming\obj\Debug\Ex9_Legendary_Farming.pdb

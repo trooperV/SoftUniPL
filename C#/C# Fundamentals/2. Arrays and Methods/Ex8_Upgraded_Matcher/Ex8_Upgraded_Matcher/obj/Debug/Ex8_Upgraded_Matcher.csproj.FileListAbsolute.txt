@@ -1,6 +1,0 @@
-D:\All Projects\C#\C# Fundamentals\Arrays and Methods\Ex8_Upgraded_Matcher\Ex8_Upgraded_Matcher\bin\Debug\Ex8_Upgraded_Matcher.exe.config
-D:\All Projects\C#\C# Fundamentals\Arrays and Methods\Ex8_Upgraded_Matcher\Ex8_Upgraded_Matcher\bin\Debug\Ex8_Upgraded_Matcher.exe
-D:\All Projects\C#\C# Fundamentals\Arrays and Methods\Ex8_Upgraded_Matcher\Ex8_Upgraded_Matcher\bin\Debug\Ex8_Upgraded_Matcher.pdb
-D:\All Projects\C#\C# Fundamentals\Arrays and Methods\Ex8_Upgraded_Matcher\Ex8_Upgraded_Matcher\obj\Debug\Ex8_Upgraded_Matcher.csprojResolveAssemblyReference.cache
-D:\All Projects\C#\C# Fundamentals\Arrays and Methods\Ex8_Upgraded_Matcher\Ex8_Upgraded_Matcher\obj\Debug\Ex8_Upgraded_Matcher.exe
-D:\All Projects\C#\C# Fundamentals\Arrays and Methods\Ex8_Upgraded_Matcher\Ex8_Upgraded_Matcher\obj\Debug\Ex8_Upgraded_Matcher.pdb

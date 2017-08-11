@@ -1,6 +1,0 @@
-D:\All Projects\C#\C# Fundamentals\8. Strings and Text Processing\Ex6_Sum_Big_Numbers\Ex6_Sum_Big_Numbers\bin\Debug\Ex6_Sum_Big_Numbers.exe.config
-D:\All Projects\C#\C# Fundamentals\8. Strings and Text Processing\Ex6_Sum_Big_Numbers\Ex6_Sum_Big_Numbers\bin\Debug\Ex6_Sum_Big_Numbers.exe
-D:\All Projects\C#\C# Fundamentals\8. Strings and Text Processing\Ex6_Sum_Big_Numbers\Ex6_Sum_Big_Numbers\bin\Debug\Ex6_Sum_Big_Numbers.pdb
-D:\All Projects\C#\C# Fundamentals\8. Strings and Text Processing\Ex6_Sum_Big_Numbers\Ex6_Sum_Big_Numbers\obj\Debug\Ex6_Sum_Big_Numbers.csprojResolveAssemblyReference.cache
-D:\All Projects\C#\C# Fundamentals\8. Strings and Text Processing\Ex6_Sum_Big_Numbers\Ex6_Sum_Big_Numbers\obj\Debug\Ex6_Sum_Big_Numbers.exe
-D:\All Projects\C#\C# Fundamentals\8. Strings and Text Processing\Ex6_Sum_Big_Numbers\Ex6_Sum_Big_Numbers\obj\Debug\Ex6_Sum_Big_Numbers.pdb

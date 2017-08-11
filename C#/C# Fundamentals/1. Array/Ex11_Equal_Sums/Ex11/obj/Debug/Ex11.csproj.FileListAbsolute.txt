@@ -1,6 +1,0 @@
-D:\All Projects\C#\C# Fundamentals\Array\Ex11\Ex11\bin\Debug\Ex11.exe.config
-D:\All Projects\C#\C# Fundamentals\Array\Ex11\Ex11\bin\Debug\Ex11.exe
-D:\All Projects\C#\C# Fundamentals\Array\Ex11\Ex11\bin\Debug\Ex11.pdb
-D:\All Projects\C#\C# Fundamentals\Array\Ex11\Ex11\obj\Debug\Ex11.csprojResolveAssemblyReference.cache
-D:\All Projects\C#\C# Fundamentals\Array\Ex11\Ex11\obj\Debug\Ex11.exe
-D:\All Projects\C#\C# Fundamentals\Array\Ex11\Ex11\obj\Debug\Ex11.pdb

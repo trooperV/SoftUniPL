@@ -1,6 +1,0 @@
-D:\All Projects\C#\C# Fundamentals\Day1\Day1\bin\Debug\Day1.exe.config
-D:\All Projects\C#\C# Fundamentals\Day1\Day1\bin\Debug\Day1.exe
-D:\All Projects\C#\C# Fundamentals\Day1\Day1\bin\Debug\Day1.pdb
-D:\All Projects\C#\C# Fundamentals\Day1\Day1\obj\Debug\Day1.csprojResolveAssemblyReference.cache
-D:\All Projects\C#\C# Fundamentals\Day1\Day1\obj\Debug\Day1.exe
-D:\All Projects\C#\C# Fundamentals\Day1\Day1\obj\Debug\Day1.pdb

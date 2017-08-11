@@ -1,6 +1,0 @@
-D:\All Projects\C#\C# Fundamentals\7. Objects, Classes, Files and Exceptions\Ex7_Play_Catch\Ex7_Play_Catch\bin\Debug\Ex7_Play_Catch.exe.config
-D:\All Projects\C#\C# Fundamentals\7. Objects, Classes, Files and Exceptions\Ex7_Play_Catch\Ex7_Play_Catch\bin\Debug\Ex7_Play_Catch.exe
-D:\All Projects\C#\C# Fundamentals\7. Objects, Classes, Files and Exceptions\Ex7_Play_Catch\Ex7_Play_Catch\bin\Debug\Ex7_Play_Catch.pdb
-D:\All Projects\C#\C# Fundamentals\7. Objects, Classes, Files and Exceptions\Ex7_Play_Catch\Ex7_Play_Catch\obj\Debug\Ex7_Play_Catch.csprojResolveAssemblyReference.cache
-D:\All Projects\C#\C# Fundamentals\7. Objects, Classes, Files and Exceptions\Ex7_Play_Catch\Ex7_Play_Catch\obj\Debug\Ex7_Play_Catch.exe
-D:\All Projects\C#\C# Fundamentals\7. Objects, Classes, Files and Exceptions\Ex7_Play_Catch\Ex7_Play_Catch\obj\Debug\Ex7_Play_Catch.pdb

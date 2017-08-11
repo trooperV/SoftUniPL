@@ -1,6 +1,0 @@
-D:\All Projects\C#\C# Fundamentals\Array\Ex6\Ex6\bin\Debug\Ex6.exe.config
-D:\All Projects\C#\C# Fundamentals\Array\Ex6\Ex6\bin\Debug\Ex6.exe
-D:\All Projects\C#\C# Fundamentals\Array\Ex6\Ex6\bin\Debug\Ex6.pdb
-D:\All Projects\C#\C# Fundamentals\Array\Ex6\Ex6\obj\Debug\Ex6.csprojResolveAssemblyReference.cache
-D:\All Projects\C#\C# Fundamentals\Array\Ex6\Ex6\obj\Debug\Ex6.exe
-D:\All Projects\C#\C# Fundamentals\Array\Ex6\Ex6\obj\Debug\Ex6.pdb

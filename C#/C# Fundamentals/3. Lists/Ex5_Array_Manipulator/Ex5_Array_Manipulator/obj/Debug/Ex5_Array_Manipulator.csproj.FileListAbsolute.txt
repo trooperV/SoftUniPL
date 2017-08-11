@@ -1,6 +1,0 @@
-D:\All Projects\C#\C# Fundamentals\Lists\Ex5_Array_Manipulator\Ex5_Array_Manipulator\bin\Debug\Ex5_Array_Manipulator.exe.config
-D:\All Projects\C#\C# Fundamentals\Lists\Ex5_Array_Manipulator\Ex5_Array_Manipulator\bin\Debug\Ex5_Array_Manipulator.exe
-D:\All Projects\C#\C# Fundamentals\Lists\Ex5_Array_Manipulator\Ex5_Array_Manipulator\bin\Debug\Ex5_Array_Manipulator.pdb
-D:\All Projects\C#\C# Fundamentals\Lists\Ex5_Array_Manipulator\Ex5_Array_Manipulator\obj\Debug\Ex5_Array_Manipulator.csprojResolveAssemblyReference.cache
-D:\All Projects\C#\C# Fundamentals\Lists\Ex5_Array_Manipulator\Ex5_Array_Manipulator\obj\Debug\Ex5_Array_Manipulator.exe
-D:\All Projects\C#\C# Fundamentals\Lists\Ex5_Array_Manipulator\Ex5_Array_Manipulator\obj\Debug\Ex5_Array_Manipulator.pdb

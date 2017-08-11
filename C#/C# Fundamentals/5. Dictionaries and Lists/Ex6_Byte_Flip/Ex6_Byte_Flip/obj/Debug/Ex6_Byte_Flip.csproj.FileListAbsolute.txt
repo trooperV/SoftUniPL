@@ -1,6 +1,0 @@
-D:\All Projects\C#\C# Fundamentals\5. Dictionaries and Lists\Ex6_Byte_Flip\Ex6_Byte_Flip\bin\Debug\Ex6_Byte_Flip.exe.config
-D:\All Projects\C#\C# Fundamentals\5. Dictionaries and Lists\Ex6_Byte_Flip\Ex6_Byte_Flip\bin\Debug\Ex6_Byte_Flip.exe
-D:\All Projects\C#\C# Fundamentals\5. Dictionaries and Lists\Ex6_Byte_Flip\Ex6_Byte_Flip\bin\Debug\Ex6_Byte_Flip.pdb
-D:\All Projects\C#\C# Fundamentals\5. Dictionaries and Lists\Ex6_Byte_Flip\Ex6_Byte_Flip\obj\Debug\Ex6_Byte_Flip.csprojResolveAssemblyReference.cache
-D:\All Projects\C#\C# Fundamentals\5. Dictionaries and Lists\Ex6_Byte_Flip\Ex6_Byte_Flip\obj\Debug\Ex6_Byte_Flip.exe
-D:\All Projects\C#\C# Fundamentals\5. Dictionaries and Lists\Ex6_Byte_Flip\Ex6_Byte_Flip\obj\Debug\Ex6_Byte_Flip.pdb

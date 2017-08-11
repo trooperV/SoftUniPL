@@ -1,6 +1,0 @@
-D:\All Projects\C#\C# Fundamentals\5. Dictionaries and Lists\Ex3_Immune_System\Ex3_Immune_System\bin\Debug\Ex3_Immune_System.exe.config
-D:\All Projects\C#\C# Fundamentals\5. Dictionaries and Lists\Ex3_Immune_System\Ex3_Immune_System\bin\Debug\Ex3_Immune_System.exe
-D:\All Projects\C#\C# Fundamentals\5. Dictionaries and Lists\Ex3_Immune_System\Ex3_Immune_System\bin\Debug\Ex3_Immune_System.pdb
-D:\All Projects\C#\C# Fundamentals\5. Dictionaries and Lists\Ex3_Immune_System\Ex3_Immune_System\obj\Debug\Ex3_Immune_System.csprojResolveAssemblyReference.cache
-D:\All Projects\C#\C# Fundamentals\5. Dictionaries and Lists\Ex3_Immune_System\Ex3_Immune_System\obj\Debug\Ex3_Immune_System.exe
-D:\All Projects\C#\C# Fundamentals\5. Dictionaries and Lists\Ex3_Immune_System\Ex3_Immune_System\obj\Debug\Ex3_Immune_System.pdb

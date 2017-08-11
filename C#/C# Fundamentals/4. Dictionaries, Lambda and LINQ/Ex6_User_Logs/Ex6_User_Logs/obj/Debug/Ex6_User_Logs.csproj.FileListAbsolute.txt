@@ -1,6 +1,0 @@
-D:\All Projects\C#\C# Fundamentals\4. Dictionaries, Lambda and LINQ\Ex6_User_Logs\Ex6_User_Logs\bin\Debug\Ex6_User_Logs.exe.config
-D:\All Projects\C#\C# Fundamentals\4. Dictionaries, Lambda and LINQ\Ex6_User_Logs\Ex6_User_Logs\bin\Debug\Ex6_User_Logs.exe
-D:\All Projects\C#\C# Fundamentals\4. Dictionaries, Lambda and LINQ\Ex6_User_Logs\Ex6_User_Logs\bin\Debug\Ex6_User_Logs.pdb
-D:\All Projects\C#\C# Fundamentals\4. Dictionaries, Lambda and LINQ\Ex6_User_Logs\Ex6_User_Logs\obj\Debug\Ex6_User_Logs.csprojResolveAssemblyReference.cache
-D:\All Projects\C#\C# Fundamentals\4. Dictionaries, Lambda and LINQ\Ex6_User_Logs\Ex6_User_Logs\obj\Debug\Ex6_User_Logs.exe
-D:\All Projects\C#\C# Fundamentals\4. Dictionaries, Lambda and LINQ\Ex6_User_Logs\Ex6_User_Logs\obj\Debug\Ex6_User_Logs.pdb

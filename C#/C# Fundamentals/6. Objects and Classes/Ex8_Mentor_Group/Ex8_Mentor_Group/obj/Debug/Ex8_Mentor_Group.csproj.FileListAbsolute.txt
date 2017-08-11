@@ -1,6 +1,0 @@
-D:\All Projects\C#\C# Fundamentals\6. Objects and Classes\Ex8_Mentor_Group\Ex8_Mentor_Group\bin\Debug\Ex8_Mentor_Group.exe.config
-D:\All Projects\C#\C# Fundamentals\6. Objects and Classes\Ex8_Mentor_Group\Ex8_Mentor_Group\bin\Debug\Ex8_Mentor_Group.exe
-D:\All Projects\C#\C# Fundamentals\6. Objects and Classes\Ex8_Mentor_Group\Ex8_Mentor_Group\bin\Debug\Ex8_Mentor_Group.pdb
-D:\All Projects\C#\C# Fundamentals\6. Objects and Classes\Ex8_Mentor_Group\Ex8_Mentor_Group\obj\Debug\Ex8_Mentor_Group.csprojResolveAssemblyReference.cache
-D:\All Projects\C#\C# Fundamentals\6. Objects and Classes\Ex8_Mentor_Group\Ex8_Mentor_Group\obj\Debug\Ex8_Mentor_Group.exe
-D:\All Projects\C#\C# Fundamentals\6. Objects and Classes\Ex8_Mentor_Group\Ex8_Mentor_Group\obj\Debug\Ex8_Mentor_Group.pdb

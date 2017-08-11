@@ -1,6 +1,0 @@
-D:\All Projects\C#\C# Fundamentals\4. Dictionaries, Lambda and LINQ\Ex8_Logs_Aggregator\Ex8_Logs_Aggregator\bin\Debug\Ex8_Logs_Aggregator.exe.config
-D:\All Projects\C#\C# Fundamentals\4. Dictionaries, Lambda and LINQ\Ex8_Logs_Aggregator\Ex8_Logs_Aggregator\bin\Debug\Ex8_Logs_Aggregator.exe
-D:\All Projects\C#\C# Fundamentals\4. Dictionaries, Lambda and LINQ\Ex8_Logs_Aggregator\Ex8_Logs_Aggregator\bin\Debug\Ex8_Logs_Aggregator.pdb
-D:\All Projects\C#\C# Fundamentals\4. Dictionaries, Lambda and LINQ\Ex8_Logs_Aggregator\Ex8_Logs_Aggregator\obj\Debug\Ex8_Logs_Aggregator.csprojResolveAssemblyReference.cache
-D:\All Projects\C#\C# Fundamentals\4. Dictionaries, Lambda and LINQ\Ex8_Logs_Aggregator\Ex8_Logs_Aggregator\obj\Debug\Ex8_Logs_Aggregator.exe
-D:\All Projects\C#\C# Fundamentals\4. Dictionaries, Lambda and LINQ\Ex8_Logs_Aggregator\Ex8_Logs_Aggregator\obj\Debug\Ex8_Logs_Aggregator.pdb

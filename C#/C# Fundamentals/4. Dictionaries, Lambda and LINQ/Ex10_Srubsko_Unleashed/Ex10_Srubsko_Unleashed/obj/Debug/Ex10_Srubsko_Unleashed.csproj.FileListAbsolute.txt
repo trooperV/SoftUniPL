@@ -1,6 +1,0 @@
-D:\All Projects\C#\C# Fundamentals\4. Dictionaries, Lambda and LINQ\Ex10_Srubsko_Unleashed\Ex10_Srubsko_Unleashed\bin\Debug\Ex10_Srubsko_Unleashed.exe.config
-D:\All Projects\C#\C# Fundamentals\4. Dictionaries, Lambda and LINQ\Ex10_Srubsko_Unleashed\Ex10_Srubsko_Unleashed\bin\Debug\Ex10_Srubsko_Unleashed.exe
-D:\All Projects\C#\C# Fundamentals\4. Dictionaries, Lambda and LINQ\Ex10_Srubsko_Unleashed\Ex10_Srubsko_Unleashed\bin\Debug\Ex10_Srubsko_Unleashed.pdb
-D:\All Projects\C#\C# Fundamentals\4. Dictionaries, Lambda and LINQ\Ex10_Srubsko_Unleashed\Ex10_Srubsko_Unleashed\obj\Debug\Ex10_Srubsko_Unleashed.csprojResolveAssemblyReference.cache
-D:\All Projects\C#\C# Fundamentals\4. Dictionaries, Lambda and LINQ\Ex10_Srubsko_Unleashed\Ex10_Srubsko_Unleashed\obj\Debug\Ex10_Srubsko_Unleashed.exe
-D:\All Projects\C#\C# Fundamentals\4. Dictionaries, Lambda and LINQ\Ex10_Srubsko_Unleashed\Ex10_Srubsko_Unleashed\obj\Debug\Ex10_Srubsko_Unleashed.pdb
