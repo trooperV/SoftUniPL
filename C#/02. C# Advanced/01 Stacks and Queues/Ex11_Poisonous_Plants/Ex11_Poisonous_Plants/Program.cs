@@ -10,6 +10,8 @@ namespace Ex11_Poisonous_Plants
     {
         static void Main(string[] args)
         {
+            int a = int.Parse(Console.ReadLine());
+
             int n = int.Parse(Console.ReadLine());
             int[] plants = Console.ReadLine().Split().Select(int.Parse).ToArray();
             int[] days = new int[n];
@@ -57,11 +59,9 @@ namespace Ex11_Poisonous_Plants
                     max = 0;
                 }
 
-                if (days[i] >= max)
-                {
-                    maxIndex = i;
-                    max = days[i];
-                }
+                if (days[i] < max) continue;
+                maxIndex = i;
+                max = days[i];
             }
 
             Console.WriteLine(days.Max());
