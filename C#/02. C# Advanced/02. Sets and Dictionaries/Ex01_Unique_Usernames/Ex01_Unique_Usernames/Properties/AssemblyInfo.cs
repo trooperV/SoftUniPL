@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Ex7_Balanced_Parenthesis")]
+[assembly: AssemblyTitle("Ex01_Unique_Usernames")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Ex7_Balanced_Parenthesis")]
+[assembly: AssemblyProduct("Ex01_Unique_Usernames")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("d36591e1-b974-436b-9f83-841ba0b1bda7")]
+[assembly: Guid("aa0240e2-a778-4717-9a9d-1863dae39565")]
 
 // Version information for an assembly consists of the following four values:
 //
