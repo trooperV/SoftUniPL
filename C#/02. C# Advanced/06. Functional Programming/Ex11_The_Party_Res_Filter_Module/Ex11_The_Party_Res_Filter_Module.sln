@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex11_The_Party_Res_Filter_Module", "Ex11_The_Party_Res_Filter_Module\Ex11_The_Party_Res_Filter_Module.csproj", "{035B9419-0334-4520-94EE-975758828A20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{035B9419-0334-4520-94EE-975758828A20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{035B9419-0334-4520-94EE-975758828A20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{035B9419-0334-4520-94EE-975758828A20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{035B9419-0334-4520-94EE-975758828A20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {970B5A57-0A73-4935-B39B-623CC98E8D5A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex09_List_Of_Predicates", "Ex09_List_Of_Predicates\Ex09_List_Of_Predicates.csproj", "{1C60C252-D87A-4E59-B6BC-E4BCBE74945C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C60C252-D87A-4E59-B6BC-E4BCBE74945C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C60C252-D87A-4E59-B6BC-E4BCBE74945C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C60C252-D87A-4E59-B6BC-E4BCBE74945C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C60C252-D87A-4E59-B6BC-E4BCBE74945C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FDBE91B-6005-4F65-B6D6-FF56D0ABF8B0}
+	EndGlobalSection
+EndGlobal
